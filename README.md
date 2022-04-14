@@ -8,9 +8,9 @@
 
 ## :shopping_cart: Мой Стэк
 <div>
-<img src="https://user-images.githubusercontent.com/94468513/163489977-8d3008c1-bbf8-47e0-9d24-a3f09b80e6fc.png" height="auto"/></h1>
+<img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/></h1>
 </div>
-![logo_1](https://user-images.githubusercontent.com/94468513/163493388-e0579ab4-17be-4dd8-88ed-98b04e430fae.png)
+
 
 ## :balance_scale: Моя статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=solarized_dark)

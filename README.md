@@ -3,8 +3,7 @@
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
 
 <div id="header" align="center">
-  <img src=" ![logo_1](https://user-images.githubusercontent.com/94468513/163493330-c33c98fa-dc2e-4a51-8dd7-556cbd2e29e0.png)
-  " width="100"/>
+  <img src="" width="100"/>
 </div>
 
 ## :shopping_cart: Мой Стэк

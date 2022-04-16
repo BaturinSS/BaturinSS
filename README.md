@@ -26,3 +26,5 @@ ____
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaturinSS&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=BaturinSS)
 ____
+	
+&#924;

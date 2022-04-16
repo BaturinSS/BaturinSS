@@ -3,7 +3,7 @@ ____
   <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
 </div>
 
-<h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
+<h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="blank">Sergey</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
 <h4 align="left">Junior Front-end Developer from Russia</h4>
 <h4 align="left">Junior Front-end Developer from Russia</h4>

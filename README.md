@@ -5,10 +5,10 @@ ____
 
 <h1>Hi there, I'm <a href="#">Sergey</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
-<h4 align="left">Junior Front-end Developer from Russia</h4>
-<h4 align="left">Junior Front-end Developer from Russia</h4>
-<h4 align="left">Junior Front-end Developer from Russia</h4>
-<h4 align="left">Junior Front-end Developer from Russia</h4>
+<h4 align="left">Junior Frontend Developer from Russia</h4>
+<h4 align="left">Junior Frontend Developer from Russia</h4>
+<h4 align="left">Junior Frontend Developer from Russia</h4>
+<h4 align="left">Junior Frontend Developer from Russia</h4>
 ____
 
 <h2> :full_moon: My stack</h2>

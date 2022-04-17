@@ -14,8 +14,8 @@
 
 <a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
 <a href="https://vk.com/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163725547-1fa5e6e1-6e70-4772-8cfd-643309734ee5.png" height="50"></a>
-<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
-<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
+<a href="https://freelance.habr.com/freelancers/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163726402-8ca838c5-348c-4298-8548-2465cb37e9b6.png" height="45"></a>
+<a href="https://discordapp.com/users/635829754314096640/"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
 
 ## :full_moon: My stack
 

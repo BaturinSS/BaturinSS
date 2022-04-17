@@ -14,13 +14,13 @@
 
 ## &#9742; Контакты
 
-<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
-<a href="https://vk.com/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163727037-3a0b7f86-03f6-4033-bd62-bd3e64690a4a.png" alt="vk" height="45"></a>
-<a href="https://freelance.habr.com/freelancers/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163726402-8ca838c5-348c-4298-8548-2465cb37e9b6.png" height="45"></a>
-<a href="https://discordapp.com/users/635829754314096640"><img src="https://user-images.githubusercontent.com/94468513/163726933-81cbb0c8-8a06-49a7-96e1-c9da517024b5.png" height="45"></a>
-<a href="https://join.skype.com/invite/H4eOIg32gpB0"><img src="https://user-images.githubusercontent.com/94468513/163727261-47526ef3-e1b6-4780-9488-78a002de6e47.png" height="45"></a>
-<a href="https://icq.im/SergeySB"><img src="https://user-images.githubusercontent.com/94468513/163728069-d63e31e9-9307-451c-8b6c-a5d1c34a7559.png" height="45"></a>
-<a href="https://www.fl.ru"><img src="https://user-images.githubusercontent.com/94468513/163728919-d0ba40e3-086e-44b0-811a-8051c946d942.png" height="45"></a>
+<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="53"></a>
+<a href="https://vk.com/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163727037-3a0b7f86-03f6-4033-bd62-bd3e64690a4a.png" alt="vk" height="48"></a>
+<a href="https://freelance.habr.com/freelancers/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163726402-8ca838c5-348c-4298-8548-2465cb37e9b6.png" height="48"></a>
+<a href="https://discordapp.com/users/635829754314096640"><img src="https://user-images.githubusercontent.com/94468513/163726933-81cbb0c8-8a06-49a7-96e1-c9da517024b5.png" height="48"></a>
+<a href="https://join.skype.com/invite/H4eOIg32gpB0"><img src="https://user-images.githubusercontent.com/94468513/163727261-47526ef3-e1b6-4780-9488-78a002de6e47.png" height="48"></a>
+<a href="https://icq.im/SergeySB"><img src="https://user-images.githubusercontent.com/94468513/163728069-d63e31e9-9307-451c-8b6c-a5d1c34a7559.png" height="48"></a>
+<a href="https://www.fl.ru"><img src="https://user-images.githubusercontent.com/94468513/163728919-d0ba40e3-086e-44b0-811a-8051c946d942.png" height="48"></a>
 
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 

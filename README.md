@@ -1,10 +1,13 @@
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
+
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
  
-# Привет &#128075;
-# Меня зовут Сергей &#128521;
+## Привет &#128075;
+## Меня зовут Сергей &#128521;
   
-### Я junior &#128118; frontend разработчик из России &#127479;&#127482;
+### Я junior &#128118; frontend разработчик (student)
 ### Прохожу обучение по курсу Web-разработчик в [Яндекс.Практикум](https://practicum.yandex.ru/web) (15.11.21-04.09.22)
+### I plan to continue to comprehend frontend development. <br> I would like to work in a large experienced team.
 
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
@@ -18,14 +21,21 @@
 <a href="https://icq.im/SergeySB"><img src="https://user-images.githubusercontent.com/94468513/163728069-d63e31e9-9307-451c-8b6c-a5d1c34a7559.png" height="50"></a>
 <a href="https://www.fl.ru"><img src="https://user-images.githubusercontent.com/94468513/163728919-d0ba40e3-086e-44b0-811a-8051c946d942.png" height="50"></a>
 
-## :full_moon: My stack
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
-<div>
-  <img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/></h1>
-</div>
+## &#129513; Стек
 
+<img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/>
 
-## :full_moon: My statistics
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
+
+## &#128736; Инструменты
+
+<img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/>
+
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
+
+## &#128200; Статистика
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaturinSS&theme=solarized_dark)

@@ -7,7 +7,7 @@
   
 ### Я junior &#128118; frontend разработчик (student)
 ### Прохожу обучение по курсу Web-разработчик в [Яндекс.Практикум](https://practicum.yandex.ru/web) (15.11.21-04.09.22)
-### I plan to continue to comprehend frontend development. <br> I would like to work in a large experienced team.
+### I plan to continue to comprehend frontend development. I would like to work in a large experienced team.
 
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 

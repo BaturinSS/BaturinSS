@@ -11,7 +11,8 @@
 + Junior Frontend Developer from Russia
 
 ## :full_moon: Contact me
-____
+
+<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
 
 ## :full_moon: My stack
 

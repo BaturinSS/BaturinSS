@@ -17,15 +17,11 @@
 <a href="https://www.fl.ru"><img src="https://user-images.githubusercontent.com/94468513/163728919-d0ba40e3-086e-44b0-811a-8051c946d942.png" height="48"></a>
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
-## &#129513; Стек
-<img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/>
+## &#129513; Стек и &#128736; инструменты
+<img src="https://user-images.githubusercontent.com/94468513/163733731-ec22cc36-880f-4fc4-a88f-a013232ae706.png" height="auto"/>
 
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
-## &#128736; Инструменты
-<img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/>
-
-![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
 ## &#128200; Статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=solarized_dark)

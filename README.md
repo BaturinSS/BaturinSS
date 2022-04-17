@@ -1,6 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
  
-# Hi &#128075;, my name Sergey &#128521;
+# Hi &#128075;
+# My name Sergey &#128521;
   
 ![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
 

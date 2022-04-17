@@ -3,11 +3,8 @@
 # Привет &#128075;
 # Меня зовут Сергей &#128521;
   
-### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Я джуниор frontend разработчик из России &#127479;&#127482;
-
-### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Junior Frontend Developer from Russia
-
-### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Junior Frontend Developer from Russia
+### Я junior &#128118; frontend разработчик из России &#127479;&#127482;
+### Сейчас прохожу обучение по курсу Web-разработчик в [Яндекс.Практикум](https://practicum.yandex.ru/web) (15.11.21 - 04.09.22)
 
 ## &#9742; Контакты
 
@@ -24,7 +21,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/94468513/163494887-baa81aac-14be-40e6-9978-7106327c5658.png" height="auto"/></h1>
 </div>
-____
+
 
 ## :full_moon: My statistics
 

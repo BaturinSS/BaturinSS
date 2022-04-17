@@ -1,17 +1,20 @@
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
-
-<h1>Hi there, I'm <a href="#">Sergey</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
+ 
+# Сергей Батурин   
   
-+ Junior Frontend Developer from Russia
+![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
-+ Junior Frontend Developer from Russia
+![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
-+ Junior Frontend Developer from Russia
+![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
-+ Junior Frontend Developer from Russia
+![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
 ## :full_moon: Contact me
 
+<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
+<a href="https://vk.com/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163725547-1fa5e6e1-6e70-4772-8cfd-643309734ee5.png" height="50"></a>
+<a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
 <a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="50"></a>
 
 ## :full_moon: My stack
@@ -29,6 +32,3 @@ ____
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaturinSS&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaturinSS&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=BaturinSS)
-____
-	
-&#924;

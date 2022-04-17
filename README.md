@@ -20,7 +20,7 @@
 ## &#128736; Стек
 <img src="https://user-images.githubusercontent.com/94468513/163735800-d1a27cf4-5726-4bd6-af84-6974383d018d.png" height="auto"/>
 
-## HTML[^1], CSS[^2], JavaScript[^3], React[^4], Node.js[^5], Github[^6], Nginx[^7], Bash[^8], Express.js[^9], MongoDB[^10], PM2[^11], VSCode[^12], WebPack[^13]
+#### HTML[^1], CSS[^2], JavaScript[^3], React[^4], Node.js[^5], Github[^6], Nginx[^7], Bash[^8], Express.js[^9], MongoDB[^10], PM2[^11], VSCode[^12], WebPack[^13]
 
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 

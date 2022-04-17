@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=BaturinSS)
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
 ## Привет &#128075;
 ## Меня зовут Сергей &#128521;
@@ -24,11 +25,13 @@
 ![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
 ## &#128200; Статистика
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaturinSS&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaturinSS&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaturinSS&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaturinSS&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BaturinSS&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaturinSS&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaturinSS&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BaturinSS&theme=dracula&utcOffset=8)
 
 [^1]:
     HTML — язык разметки, на котором строятся сайты. Сообщает браузеру, что должно появиться на экране: заголовки, абзацы, ссылки, списки — любые блоки, на которые      делится страница.

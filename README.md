@@ -1,15 +1,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
  
-# Hi &#128075;
-# My name Sergey &#128521;
+# Привет &#128075;
+# Меня зовут Сергей &#128521;
   
-![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
+### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Я джуниор frontend разработчик из России &#127479;&#127482;
 
-![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
+### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
-![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
-
-![#16be5a](https://via.placeholder.com/10/16be5a/000000?text=+) Junior Frontend Developer from Russia
+### ![#16be5a](https://via.placeholder.com/15/16be5a/000000?text=+) Junior Frontend Developer from Russia
 
 ## &#9742; Контакты
 

@@ -6,7 +6,7 @@
 ### Я junior &#128118; frontend разработчик (student)
 ### Прохожу обучение по курсу Web-разработчик в [Яндекс.Практикум](https://practicum.yandex.ru/web) (15.11.21-04.09.22)
 ### I plan to continue to comprehend frontend development. I would like to work in a large experienced team.
-https://via.placeholder.com/1500x7/a90171/000000?text=+
+![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 ## &#9742; Контакты
 <a href="https://t.me/Sergey32324"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="53"></a>
 <a href="https://vk.com/baturinss"><img src="https://user-images.githubusercontent.com/94468513/163727037-3a0b7f86-03f6-4033-bd62-bd3e64690a4a.png" alt="vk" height="48"></a>

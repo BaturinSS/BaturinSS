@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=BaturinSS)
 ---
-<img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
-
-## Привет &#128075;
+<img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>  
+ 
+## Привет &#128075;  
 ## Меня зовут Сергей &#128521;
 ### Я junior &#128118; frontend разработчик (student)
 ### Прохожу обучение по курсу Web-разработчик в [Яндекс.Практикум](https://practicum.yandex.ru/web) (15.11.21-04.09.22)

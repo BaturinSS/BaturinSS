@@ -16,14 +16,11 @@
 <a href="https://join.skype.com/invite/H4eOIg32gpB0"><img src="https://user-images.githubusercontent.com/94468513/163727261-47526ef3-e1b6-4780-9488-78a002de6e47.png" height="48"></a>
 <a href="https://icq.im/SergeySB"><img src="https://user-images.githubusercontent.com/94468513/163728069-d63e31e9-9307-451c-8b6c-a5d1c34a7559.png" height="48"></a>
 <a href="https://www.fl.ru"><img src="https://user-images.githubusercontent.com/94468513/163728919-d0ba40e3-086e-44b0-811a-8051c946d942.png" height="48"></a>
-![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
-
+---
 ## &#128736; Стек
 <img src="https://user-images.githubusercontent.com/94468513/163735800-d1a27cf4-5726-4bd6-af84-6974383d018d.png" height="auto"/>
 
 #### HTML[^1], CSS[^2], JavaScript[^3], React[^4], Node.js[^5], Github[^6], Nginx[^7], Bash[^8], Express.js[^9], MongoDB[^10], PM2[^11], VSCode[^12], WebPack[^13]
-
-![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
 
 ## &#128200; Статистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaturinSS&theme=dracula)

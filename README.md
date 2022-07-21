@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=BaturinSS)
-![#a90171](https://via.placeholder.com/1500x7/a90171/000000?text=+)
+---
 <img align="right" src="https://user-images.githubusercontent.com/94468513/163495231-e2d77aaa-1dae-4956-b4b3-c5edc1d0b8a6.gif" width="400"/>
 ## Привет &#128075;
 ## Меня зовут Сергей &#128521;
